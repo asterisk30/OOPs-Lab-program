@@ -1,7 +1,7 @@
 #include<iostream>
 #define pi 3.14
 #include<cstdlib>
-#ifndef shape_h
+
 #define  shape_h
 using namespace std;
 
@@ -46,4 +46,3 @@ class SQUARE:public Shape
 };
 
 
-#endif
